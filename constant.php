@@ -7,6 +7,8 @@
         const VIP2   = 3;
         const VIP3   = 4;
         const VIP4   = 5;
+        const VIP5   = 6;
+        const VIP6   = 7;
         const VIP8   = 9;
     }
 
